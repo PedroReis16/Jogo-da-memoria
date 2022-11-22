@@ -1,0 +1,92 @@
+C:\Users\pedro\source\repos\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\pedro\source\repos\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\pedro\source\repos\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo_da_memoria.Form1.resources
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\pedro\source\repos\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+Z:\Algoritmos II\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+Z:\Algoritmos II\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+Z:\Algoritmos II\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo_da_memoria.Form1.resources
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+Z:\Algoritmos II\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\081220044\Downloads\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\081220044\Downloads\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\081220044\Downloads\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.TelaInicial.resources
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Jogo.resources
+C:\Users\081220044\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Dificuldade.resources
+C:\Users\pedro\Downloads\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\pedro\Downloads\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\pedro\Downloads\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Dificuldade.resources
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.TelaInicial.resources
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Easy.resources
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Medium.resources
+C:\Users\pedro\Downloads\Jogo da memoria\obj\Debug\Jogo_da_memoria.Hard.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Dificuldade.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Easy.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Hard.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Medium.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.TelaInicial.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Dificuldade.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Easy.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Hard.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Medium.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo_da_memoria.TelaInicial.resources
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\023.wav
+C:\Users\081220021\Downloads\Jogo da memoria - Com os níveis de dificuldade Atualizado\Jogo da memoria - Com os níveis de dificuldade\Jogo da memoria\bin\Debug\23TRAP-REMIX.wav
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\bin\Debug\023.wav
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\bin\Debug\23TRAP-REMIX.wav
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo_da_memoria.Dificuldade.resources
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo_da_memoria.Easy.resources
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo_da_memoria.Hard.resources
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo_da_memoria.Medium.resources
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo_da_memoria.TelaInicial.resources
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\pedro\Desktop\Jogo da memoria - Com música\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
